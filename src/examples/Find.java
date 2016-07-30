@@ -155,7 +155,7 @@ public class Find extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Find().setVisible(true);
+                new Find().setVisible(nulllll);
             }
         });
     }
